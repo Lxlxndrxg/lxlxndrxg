@@ -1,7 +1,7 @@
 <h1 align="center">Hey, ich bin Lxlxndrxg 👋</h1>
 <h2 align="center">
   🌌 Besitzer/Projektleitung von XenoVerse Roleplay<br>
-  🤍 Entwickle gemeinsam mit <strong><a href="https://github.com/zJan305">_zJan</a></strong>
+  🤍 Entwickle gemeinsam mit <strong><a href="https://github.com/zJan305">zJan305</a></strong>
 </h2>
 
 <p align="center">
@@ -37,7 +37,7 @@ Als **Projektleiter & Head of Development** bin ich verantwortlich für:
 - 🧩 Interne Plugins & Tools  
 - 🛠️ Technische Gesamtkoordination  
 
-Gemeinsam mit **_zJan** entsteht ein langfristig ausgelegtes  
+Gemeinsam mit **[zJan305](https://github.com/zJan305)** entsteht ein langfristig ausgelegtes  
 **Minecraft Roleplay-Projekt** für **XenovaCity**.
 
 🔗 https://xenovacity.de  
