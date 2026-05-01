@@ -1,6 +1,5 @@
 <h1 align="center">Hey, ich bin Lxlxndrxg 👋</h1>
 <h2 align="center">
-  🌌 Besitzer/Projektleitung von XenoVerse Roleplay<br>
   🤍 Entwickle gemeinsam mit <strong><a href="https://github.com/zJan305">zJan305</a></strong>
 </h2>
 
@@ -15,40 +14,9 @@
 Ich bin ein **cozy Entwickler** mit Fokus auf **Minecraft-Roleplay-Systeme**  
 und der technischen Umsetzung komplexer **Wirtschafts- & Gameplaymechaniken**.
 
-Mein Hauptprojekt ist **[XenoVerse Roleplay](https://github.com/xenoverse-roleplay)** –  
-ein modernes **Minecraft Roleplay- & Economy-Projekt**, das auf:
-
-- Qualität & Stabilität  
-- Realistisches Roleplay  
-- Durchdachte Wirtschaftssysteme  
-- Saubere, wartbare Code-Strukturen  
-
-ausgelegt ist.
-
----
-
-## 🏙️ XenoVerse Roleplay
-
-**XenoVerse Roleplay** ist mein größter Entwicklungsfokus.  
-Als **Projektleiter & Head of Development** bin ich verantwortlich für:
-
-- 🧠 Architektur & Core-Systeme  
-- ⚙️ GameServer- & Economy-Systeme  
-- 🧩 Interne Plugins & Tools  
-- 🛠️ Technische Gesamtkoordination  
-
-Gemeinsam mit **[zJan305](https://github.com/zJan305)** entsteht ein langfristig ausgelegtes  
-**Minecraft Roleplay-Projekt** für **XenovaCity**.
-
-🔗 https://xenovacity.de  
-💬 https://discord.gg/upmaVT84J4  
-
 ---
 
 ## 📫 Kontakt
-
-- **Projekt & Management:**  
-  [management@xenovacity.de](mailto:management@xenovacity.de)
 
 - **Privat:**  
   [lxlxndrxglxng@gmx.de](mailto:lxlxndrxglxng@gmx.de)
