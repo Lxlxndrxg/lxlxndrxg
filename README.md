@@ -1,51 +1,86 @@
-<h1 align="center">Hey, ich bin Lxlxndrxg 👋</h1>
-<h2 align="center">
-  🤍 Entwickle gemeinsam mit <strong><a href="https://github.com/zJan305">zJan305</a></strong>
-</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lxlxndrxg&label=Profilaufrufe&color=0e75b6&style=flat" alt="lxlxndrxg" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF1E1E,100:FF4D4D&height=190&section=header&text=Lxlxndrxg&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Minecraft%20%7C%20Web%20%7C%20Backend&descAlignY=60&descSize=18" width="100%"/><br>
+## 🤍 Entwickle gemeinsam mit **[zJan305](https://github.com/zJan305)**
+<p></p>
+<img src="https://komarev.com/ghpvc/?username=lxlxndrxg&label=PROFILAUFRUFE&color=FF1E1E&style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 🌌 Über mich
 
-Ich bin ein **cozy Entwickler** mit Fokus auf **Minecraft-Roleplay-Systeme**  
+Ich bin ein **cozy Entwickler** mit Fokus auf **Minecraft-Roleplay-Systeme**
 und der technischen Umsetzung komplexer **Wirtschafts- & Gameplaymechaniken**.
 
----
-
-## 📫 Kontakt
-
-- **Privat:**  
-  [lxlxndrxglxng@gmx.de](mailto:lxlxndrxglxng@gmx.de)
-
----
-
-## 🌐 Social Media & Community
-
-<p align="center" style="display: flex; gap: 10px;">
-  <a href="https://twitter.com/lxlxndrxg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
-  </a>
-  <a href="https://instagram.com/lxlxndrxg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
-  </a>
-  <a href="https://youtube.com/@lxlxndrxg" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" />
-  </a>
-  <a href="https://discord.gg/upmaVT84J4" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" />
-  </a>
-</p>
+Neben Minecraft entwickle ich **Webanwendungen, Backend-Systeme und APIs**
+und beschäftige mich mit Datenbanken und Server-Infrastruktur.
 
 ---
 
 ## 🛠️ Sprachen & Tools
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,php,react,vite,nodejs,mysql,linux,github,idea&perline=20" />
+
+<p></p>
+
+<img src="https://img.shields.io/badge/Minecraft-8B0000?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/PaperMC-FF1E1E?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-FF4D4D?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GITHUB STATS
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lxlxndrxg&hide_border=true&theme=dark&background=0D0D0D&ring=FF1E1E&fire=FF4D4D&currStreakLabel=FFFFFF"/>
+
+</div>
+
+
+---
+
+<div align="center">
+
+## 🌐 Social Media & Community
+
+<a href="https://twitter.com/lxlxndrxg">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/lxlxndrxg">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://youtube.com/@lxlxndrxg">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://discord.gg/upmaVT84J4">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="35"/>
+</a>
+
+<p></p>
+
+<a href="mailto:lxlxndrxglxng@gmx.de">
+<img src="https://img.shields.io/badge/Privat-lxlxndrxglxng%40gmx.de-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br>
+
+### ❤️ Gemeinsam entwickeln. Gemeinsam wachsen.
+
+**[Lxlxndrxg](https://github.com/Lxlxndrxg) × [zJan305](https://github.com/zJan305)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D4D,50:FF1E1E,100:8B0000&height=100&section=footer" width="100%"/>
+
+</div>
