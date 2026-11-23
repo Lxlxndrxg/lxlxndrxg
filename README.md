@@ -72,7 +72,7 @@ und beschäftige mich mit Datenbanken und Server-Infrastruktur.
 <p></p>
 
 <a href="mailto:lxlxndrxg@gmx.net">
-<img src="https://img.shields.io/badge/Privat-lxlxndrxg%40gmx.net-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Public-lxlxndrxg%40gmx.net-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br>
